@@ -9,6 +9,6 @@ My research focuses on robot learning, diffusion models and computer vision, and
 | Project Name | Description | Link |
 | :--- | :--- | :--- |
 | Campus Lost and Found System | A campus lost and found management system designed for Lost Owners|  [https://github.com/selnaw/campus-lost-found-system](#) |
-| Intelligent Fruit Picking System | A system that combines visual and olfactory models for judgment and the picking of fruits | [0](#) |
+| Intelligent Fruit Picking System | A system that combines visual and olfactory models for judgment and the picking of fruits | [https://github.com/selnaw/Intelligent-Fruit-Picking-System](#) |
 | Tetris music game| A game that combines rhythm games and Tetris| [https://github.com/selnaw/Tetris-music-game](#) |
 
