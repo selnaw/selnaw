@@ -1,7 +1,6 @@
 ### 👋 About Me
 I'm Yuxuan Wang, a third-year undergraduate student in AI at Macau University of Science and Technology.
-My research focuses on robot learning, diffusion models and computer vision, and I'm applying for postgraduate programs in related fields.
-
+My research focuses on robot learning, diffusion models and computer vision.
 - 🎓 AI, Macau University of Science and Technology
 - 📧 Email: wyx040123@126.com
 
